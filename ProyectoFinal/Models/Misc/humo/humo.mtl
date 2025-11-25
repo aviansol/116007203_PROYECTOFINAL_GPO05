@@ -1,0 +1,12 @@
+# Blender 5.0.0 MTL File: 'cuphead.blend'
+# www.blender.org
+
+newmtl humo:phong1SG
+Ns 18.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd humo.jpg
+map_Ks humo_spec.png
